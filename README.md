@@ -1,4 +1,4 @@
-# ops310
+# Automated workflow using Azure Static Web Apps, Azure Storage, and Logic Apps
 1. Project Overview
 This project simulates a simple modern application using the low-code and Platform as a Service (PaaS) features of Microsoft Azure. The goal is to create an automated, end-to-end workflow for file processing. Users upload raw files to an Azure Storage Account, and the system automatically picks up, processes, and moves the files to a separate folder. Once the process is complete, an email notification is sent to the appropriate staff.
 
